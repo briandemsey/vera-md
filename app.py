@@ -14,7 +14,7 @@ import plotly.graph_objects as go
 # CONFIGURATION
 # ============================================================================
 
-APP_MD_RED = "#CE1126"
+MD_RED = "#CE1126"
 MD_GOLD = "#FFD200"
 MD_BLACK = "#000000"
 MD_DARK = "#1a1a1a"
